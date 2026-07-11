@@ -1,7 +1,7 @@
 {
   "name": "toolmaster-backend",
   "version": "1.0.0",
-  "description": "ToolMaster Hub API",
+  "description": "ToolMaster Hub Backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
